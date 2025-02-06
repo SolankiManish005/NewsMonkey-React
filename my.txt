@@ -2,5 +2,14 @@
 
 git commit -m "first commit" 
 git branch -M main 
-git remote add origin https://github.com/SolankiManish005/NewsMonkey-React.git 
+git remote add origin https://github.com/SolankiManish005/NewsMonkey-React.git
 git push -u origin main
+
+
+
+git remote add origin https://github.com/SolankiManish005/NewsMonkey-React.git
+git branch -M main
+git push -u origin main
+
+
+npm run deploy
